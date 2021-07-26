@@ -1,0 +1,2 @@
+# InstalasiLaravel
+project laravel
